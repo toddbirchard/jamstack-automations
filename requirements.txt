@@ -47,7 +47,7 @@ pyasn1==0.4.8; python_version >= "3.5" and python_full_version < "3.0.0" and pyt
 pycparser==2.20; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.6.0" and python_version >= "3.6"
 pydantic==1.7.3; python_version >= "3.6"
 pygithub==1.54.1; python_version >= "3.6"
-pyjwt==1.7.1
+pyjwt==2.0.1
 pymysql==1.0.2; python_version >= "3.6"
 pyparsing==2.4.7; python_version >= "2.6" and python_full_version < "3.0.0" or python_full_version >= "3.3.0"
 pyrdfa3==3.5.3
